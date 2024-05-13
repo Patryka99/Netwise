@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Patryk\\Desktop\\Netwise\\NetWise\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D2DFBD34-9E29-47E0-B01B-38988DC571D8}|NetWise.csproj|c:\\users\\patryk\\desktop\\netwise\\netwise\\catfact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2DFBD34-9E29-47E0-B01B-38988DC571D8}|NetWise.csproj|solutionrelative:catfact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D2DFBD34-9E29-47E0-B01B-38988DC571D8}|NetWise.csproj|c:\\users\\patryk\\desktop\\netwise\\netwise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2DFBD34-9E29-47E0-B01B-38988DC571D8}|NetWise.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2DFBD34-9E29-47E0-B01B-38988DC571D8}|NetWise.csproj|c:\\users\\patryk\\desktop\\netwise\\netwise\\catservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2DFBD34-9E29-47E0-B01B-38988DC571D8}|NetWise.csproj|solutionrelative:catservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CatFact.cs",
+              "DocumentMoniker": "C:\\Users\\Patryk\\Desktop\\Netwise\\NetWise\\CatFact.cs",
+              "RelativeDocumentMoniker": "CatFact.cs",
+              "ToolTip": "C:\\Users\\Patryk\\Desktop\\Netwise\\NetWise\\CatFact.cs",
+              "RelativeToolTip": "CatFact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:59:03.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CatService.cs",
+              "DocumentMoniker": "C:\\Users\\Patryk\\Desktop\\Netwise\\NetWise\\CatService.cs",
+              "RelativeDocumentMoniker": "CatService.cs",
+              "ToolTip": "C:\\Users\\Patryk\\Desktop\\Netwise\\NetWise\\CatService.cs",
+              "RelativeToolTip": "CatService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:57:54.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Patryk\\Desktop\\Netwise\\NetWise\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Patryk\\Desktop\\Netwise\\NetWise\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-13T12:49:27.228Z",
               "EditorCaption": ""

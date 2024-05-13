@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NetWise")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08ebac5a62021862a3ac0da2f92a06af16f527de")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bdbc07fdd584c27fd23ebddb4125abf3c97973dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("NetWise")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NetWise")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
